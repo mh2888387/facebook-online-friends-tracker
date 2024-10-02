@@ -1,3 +1,3 @@
-*enter your username*/n
-enter your password/n
-run script 
+#enter your username
+#enter your password
+##run script 
