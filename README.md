@@ -1,3 +1,3 @@
-# enter your username
-# enter your password
-## run script 
+# 1) enter your username
+# 2) enter your password
+## 3) run script 
